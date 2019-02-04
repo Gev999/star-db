@@ -1,0 +1,17 @@
+.item-list {
+  margin-bottom: 1rem;
+}
+
+.item-list-title {
+  border-bottom: 1px solid white;
+  padding-bottom: 1%;
+  margin-bottom: 1%;
+}
+
+.item-list .list-group-item {
+  cursor: pointer;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}
